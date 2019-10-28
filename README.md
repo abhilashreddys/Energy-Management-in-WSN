@@ -24,7 +24,8 @@ $ python3 ionosphere.py
 ```
 $ python3 covertype.py
 ```
-
+- See [Reference 1](https://github.com/abhilashreddys/Energy-Management-in-WSN/blob/master/reference1.ipynb) [Reference 2](https://github.com/abhilashreddys/Energy-Management-in-WSN/blob/master/reference2.ipynb)
+ 
 ## Accuracy
  - For Ionosphere data
  
